@@ -64,7 +64,7 @@
         <mxCell id="5mfjMf9R6jpQZcoLT1Og-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.553;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5mfjMf9R6jpQZcoLT1Og-15" target="5mfjMf9R6jpQZcoLT1Og-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5mfjMf9R6jpQZcoLT1Og-31" value="&lt;span&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Selection of primary studies&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;glass=1;verticalAlign=top;spacingLeft=35;spacingTop=10;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5mfjMf9R6jpQZcoLT1Og-31" value="&lt;span&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Selection of primary studies&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;glass=1;verticalAlign=top;spacingLeft=35;spacingTop=10;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="364" width="720" height="534" as="geometry" />
         </mxCell>
         <mxCell id="5mfjMf9R6jpQZcoLT1Og-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5mfjMf9R6jpQZcoLT1Og-32">
