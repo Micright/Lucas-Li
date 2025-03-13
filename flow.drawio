@@ -67,7 +67,7 @@
         </mxCell>
         <mxCell id="2Log5qRWWk-23_1ZPlTG-25" value="Data Privacy and Cybersecurity" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-19">
           <mxGeometry x="20" y="420" width="410" height="190" as="geometry">
-            <mxRectangle x="20" y="240" width="430" height="30" as="alternateBounds" />
+            <mxRectangle x="20" y="420" width="410" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2Log5qRWWk-23_1ZPlTG-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2Log5qRWWk-23_1ZPlTG-25" source="2Log5qRWWk-23_1ZPlTG-59" target="2Log5qRWWk-23_1ZPlTG-56">
